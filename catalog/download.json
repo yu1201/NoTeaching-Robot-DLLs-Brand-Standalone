@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "channel": "brand-standalone",
+  "distributionTag": "dev-20260917",
+  "stage": "development-candidate",
+  "companyReleaseApproved": false,
+  "assets": [
+    {
+      "name": "CANDIDATE-brand-standalone-2026.09.14.0945-windows-x64.zip",
+      "size": 164990375,
+      "sha256": "61a23c0de5147ac169593de6ef5fa620f862ea13428a2da823328a11b8075786"
+    },
+    {
+      "name": "SDK-import-pairs-brand-standalone-20260917-windows-x64.zip",
+      "size": 330681,
+      "sha256": "8e73bafddd2f0a3fbd0c056b2b01ba4835f654861efe6f6f260df344ec2466f4"
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "size": 250,
+      "sha256": "8375148a70a650d1d4d3aa35e84eb5867665bd58c8a136f992a024ef02851a37"
+    }
+  ]
+}

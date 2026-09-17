@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "channel": "brand-standalone",
+  "sourceCodeIncluded": false,
+  "businessModulesExtracted": false,
+  "distributionStage": "development-candidate",
+  "productReleaseApproved": false,
+  "authorization": "Sentinel 密码狗授权及 EXE 外壳保护"
+}
