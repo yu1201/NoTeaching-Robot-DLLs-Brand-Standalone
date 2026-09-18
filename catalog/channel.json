@@ -1,9 +1,9 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "channel": "brand-standalone",
   "sourceCodeIncluded": false,
-  "businessModulesExtracted": false,
-  "distributionStage": "development-candidate",
-  "productReleaseApproved": false,
-  "authorization": "Sentinel 密码狗授权及 EXE 外壳保护"
+  "businessModulesExtracted": true,
+  "distributionStage": "module-release",
+  "authorization": "Sentinel HL 密码狗，永久单机授权",
+  "version": "2026.09.18.1800"
 }

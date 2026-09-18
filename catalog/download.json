@@ -1,24 +1,32 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "channel": "brand-standalone",
-  "distributionTag": "dev-20260917",
-  "stage": "development-candidate",
-  "companyReleaseApproved": false,
+  "version": "2026.09.18.1800",
+  "distributionTag": "full-dll-20260918",
   "assets": [
     {
-      "name": "CANDIDATE-brand-standalone-2026.09.14.0945-windows-x64.zip",
-      "size": 164990375,
-      "sha256": "61a23c0de5147ac169593de6ef5fa620f862ea13428a2da823328a11b8075786"
+      "name": "FullDllRuntime-brand-standalone-2026.09.18.1800.zip",
+      "size": 214901390,
+      "sha256": "83d957c0fd2f624e303f3512140ec9d3b14842ba1a5f90a7b6fff3fa161cd4fe",
+      "url": "https://github.com/yu1201/NoTeaching-Robot-DLLs-Brand-Standalone/releases/download/full-dll-20260918/FullDllRuntime-brand-standalone-2026.09.18.1800.zip"
     },
     {
-      "name": "SDK-import-pairs-brand-standalone-20260917-windows-x64.zip",
-      "size": 330681,
-      "sha256": "8e73bafddd2f0a3fbd0c056b2b01ba4835f654861efe6f6f260df344ec2466f4"
+      "name": "FullDllSDK-brand-standalone-20260918T133324Z-1e044f98fb19.zip",
+      "size": 69296652,
+      "sha256": "68d623a4572ed687a327d8f33bcec7069ca2f1fc285bdbb40354f4308613c4cd",
+      "url": "https://github.com/yu1201/NoTeaching-Robot-DLLs-Brand-Standalone/releases/download/full-dll-20260918/FullDllSDK-brand-standalone-20260918T133324Z-1e044f98fb19.zip"
+    },
+    {
+      "name": "HK-Pathlynx-CORPLA-Standalone-Setup-v2026.09.18.1800.exe",
+      "size": 243375922,
+      "sha256": "5da8b1a6cd20352918fca9d4b81ded3057ea06a496ddf3ee496aeee43d9bd783",
+      "url": "https://github.com/yu1201/NoTeaching-Robot-DLLs-Brand-Standalone/releases/download/full-dll-20260918/HK-Pathlynx-CORPLA-Standalone-Setup-v2026.09.18.1800.exe"
     },
     {
       "name": "SHA256SUMS.txt",
-      "size": 250,
-      "sha256": "8375148a70a650d1d4d3aa35e84eb5867665bd58c8a136f992a024ef02851a37"
+      "size": 372,
+      "sha256": "2bb0e42d4a84a23f67d5ae7493d436d44dfcf1fc0001da2df870ee7f4e0efda4",
+      "url": "https://github.com/yu1201/NoTeaching-Robot-DLLs-Brand-Standalone/releases/download/full-dll-20260918/SHA256SUMS.txt"
     }
   ]
 }
