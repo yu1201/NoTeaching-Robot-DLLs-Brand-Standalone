@@ -1,33 +1,33 @@
 {
   "schemaVersion": 2,
   "channel": "brand-standalone",
-  "version": "2026.09.20.2035",
-  "distributionTag": "full-dll-20260920",
+  "version": "2026.10.08.1745",
+  "distributionTag": "full-dll-20261008",
   "completeInstaller": true,
   "assets": [
     {
-      "name": "FullDllRuntime-brand-standalone-2026.09.20.2035.zip",
-      "size": 238971720,
-      "sha256": "0d3dda9242316d57bf9c328246036fe5791c032bb5b3457eba0f5be5b7a87b05",
-      "url": "https://github.com/yu1201/NoTeaching-Robot-DLLs-Brand-Standalone/releases/download/full-dll-20260920/FullDllRuntime-brand-standalone-2026.09.20.2035.zip"
+      "name": "FullDllRuntime-brand-standalone-2026.10.08.1745.zip",
+      "size": 245866499,
+      "sha256": "9e6553e9644fb071cc2fe73d0385cbc1c7b05fb0452e911952f589024e905634",
+      "url": "https://github.com/yu1201/NoTeaching-Robot-DLLs-Brand-Standalone/releases/download/full-dll-20261008/FullDllRuntime-brand-standalone-2026.10.08.1745.zip"
     },
     {
-      "name": "FullDllSDK-brand-standalone-20260920T151701Z-2c483c4c4abe.zip",
-      "size": 69625673,
-      "sha256": "01e1818104915716d26cae631cb8c8df9295e2961dcca87cd211d94eac5a76bd",
-      "url": "https://github.com/yu1201/NoTeaching-Robot-DLLs-Brand-Standalone/releases/download/full-dll-20260920/FullDllSDK-brand-standalone-20260920T151701Z-2c483c4c4abe.zip"
+      "name": "FullDllSDK-brand-standalone-20261008T104850Z-77338177b031.zip",
+      "size": 70892952,
+      "sha256": "1c825a307ebae8b7b03a53799ea4288e854b412a01bc98ce045a1fcdfc293992",
+      "url": "https://github.com/yu1201/NoTeaching-Robot-DLLs-Brand-Standalone/releases/download/full-dll-20261008/FullDllSDK-brand-standalone-20261008T104850Z-77338177b031.zip"
     },
     {
-      "name": "HK-Pathlynx-CORPLA-Standalone-Setup-v2026.09.20.2035.exe",
-      "size": 258069092,
-      "sha256": "097af07511455df034e0ceff07cd5c25da72664884321e31efb8a06f43485249",
-      "url": "https://github.com/yu1201/NoTeaching-Robot-DLLs-Brand-Standalone/releases/download/full-dll-20260920/HK-Pathlynx-CORPLA-Standalone-Setup-v2026.09.20.2035.exe"
+      "name": "HK-Pathlynx-CORPLA-Standalone-Setup-v2026.10.08.1745.exe",
+      "size": 258232185,
+      "sha256": "4cf18d123517c22ca27b5e7ec2a1b50e46c503a3ec6f682e32671642538a2730",
+      "url": "https://github.com/yu1201/NoTeaching-Robot-DLLs-Brand-Standalone/releases/download/full-dll-20261008/HK-Pathlynx-CORPLA-Standalone-Setup-v2026.10.08.1745.exe"
     },
     {
       "name": "SHA256SUMS.txt",
       "size": 372,
-      "sha256": "c7ffb027f29bb45235e5aec2cd3419dc6948c598c035563b759128b503d8d882",
-      "url": "https://github.com/yu1201/NoTeaching-Robot-DLLs-Brand-Standalone/releases/download/full-dll-20260920/SHA256SUMS.txt"
+      "sha256": "21fa2ccbe5ebcb0c31e3231b1d630869297de481234cf8cd87229931eef984ba",
+      "url": "https://github.com/yu1201/NoTeaching-Robot-DLLs-Brand-Standalone/releases/download/full-dll-20261008/SHA256SUMS.txt"
     }
   ]
 }

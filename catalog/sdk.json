@@ -5,14 +5,14 @@
   "status": "development-candidate",
   "source": {
     "branch": "hk-pathlynx-corpla",
-    "commit": "5bae72c9bd8b1a12ba8a6959d35560052db284a9",
+    "commit": "ff502e68a4477558e7808d3613c485fc9825e91f",
     "dirty": false
   },
-  "frozenBuildReportSha256": "2c483c4c4abe98c0bec231bbf35d351fb43f5463828486679e0f69f69fbd190a",
-  "rawBuildHostSha256": "9e9679567c505194cc19548624050c9f470c248bd5a3f1d0045eb39c51762452",
-  "hostSha256": "75f31ce16dea07ec5b6794afe7b680efe3488f804c54509fc94fca166799adb8",
+  "frozenBuildReportSha256": "77338177b0312f5446f16a9463a7ae746e1b6e01d21a37a34d943452277e1ab9",
+  "rawBuildHostSha256": "f631b27724dbfb3265bce056a13b54c1c03cb3999df192071ebdffb7e4a1348a",
+  "hostSha256": "f28dc8baf6a1fcc2bb9f9c7c50dd67dd2dc89dbb2298b3a75f673a09dca04bd2",
   "moduleCount": 102,
-  "headerCount": 121,
+  "headerCount": 127,
   "dynamicRuntimeModuleCount": 0,
   "dynamicRuntimeModules": [],
   "abi": {
@@ -58,512 +58,512 @@
     {
       "path": "bin/HKAppEntry.dll",
       "size": 14219776,
-      "sha256": "954742ce2912b202b9ab4f50943f9370de41bb7b474a3dcf2442807b15a8f4f4"
+      "sha256": "25ab150d4fe7cc16af9f8c98fc0c2b1baa0e5052e2aa419d2dd9c06a4db0614f"
     },
     {
       "path": "bin/HKAppPaths.dll",
       "size": 50688,
-      "sha256": "d40ea83c05952e4391a5ec598410916a8ad9cc36e3c9bb1f4951c35c4f22fc34"
+      "sha256": "430d63c00af78fbbd2549bb23062c0467ac9c96ba13457636564084c31451325"
     },
     {
       "path": "bin/HKApplicationInstanceGuard.dll",
       "size": 22016,
-      "sha256": "6edcff2cedc2649a0bc65fa333b013c8269325b56c49775265dca7284c1c9b72"
+      "sha256": "1abd5bba744f95e190a868eda0a089d3527a035dd636aa875cd53cc63ae5240c"
     },
     {
       "path": "bin/HKBcpdModelAligner.dll",
       "size": 37888,
-      "sha256": "30a16d68eeb450b5c799ebd8772f7ac88310f1a07b11027d879cb5a009738444"
+      "sha256": "208c9e8fad7d41fddf3f5e0afac2bcb164434217c2aa34ce6d66b6ecf41b57e1"
     },
     {
       "path": "bin/HKBrandingConfig.dll",
       "size": 41472,
-      "sha256": "03a7a61dd74cf863cefeb398ed704d202a3c3fdab0e806de8089c3c0e11c4e05"
+      "sha256": "c08a72ae5bc2b3583f9772d4ded9b1e6440176ceacad471255c740825978808d"
     },
     {
       "path": "bin/HKCadModel3DView.dll",
       "size": 281088,
-      "sha256": "19bbcbf87da730a0cdfbae79b387166ad4526380bae82b645e6713b31c2b23a6"
+      "sha256": "3d4f244ebfab614d03d241a90e44d6d2e9b3cbfc12a71b00f729f0a3b4788f7d"
     },
     {
       "path": "bin/HKCadSeamCandidateExtractor.dll",
       "size": 202752,
-      "sha256": "ab12d63066d2c6feda164037dbad2b66da27ffe433981a2acf04ce5270ef94b2"
+      "sha256": "3cd8c8c8cf674bdd2908b427c283561fd3a6e833e6783b9949e9a7a586dd17e6"
     },
     {
       "path": "bin/HKCameraBasicParamDialog.dll",
       "size": 89600,
-      "sha256": "b88deead2e786543d25d6b3adfb9c5f8235b2274350e3d3d3b92b0f02e04fd23"
+      "sha256": "114e1f5cac50cd2f5a5cb100354ff702039d381e53f64f13d21e7b9a5d2c79ee"
     },
     {
       "path": "bin/HKCameraFrameCache.dll",
       "size": 41984,
-      "sha256": "2ffdf89d4b4868f8cb1471aa4718cafa2d648f3f0539aa4eeac0f46646097188"
+      "sha256": "3ae687d974f944431af67acf0bc9ee288b2c86e3b3bfc1fc2ed42c705b50201c"
     },
     {
       "path": "bin/HKCameraParamDialog.dll",
       "size": 69632,
-      "sha256": "1c3f5b0e1486f19f6ecfbf0e105c6fbb4b46b9547f96f1701ee23116fefabd73"
+      "sha256": "7f62fa0cd57f198758483a5d27f878235536d8143df7b619c38c14d7750bff3f"
     },
     {
       "path": "bin/HKCliHelp.dll",
       "size": 14336,
-      "sha256": "36d3c9a0f074c5fccd78142f285b9fb724bc60d53227805351bc7f957fc39639"
+      "sha256": "b80e70b606a753efc4ae41cbbe6325844594c1ed7738a9de3a985ed22fb935ce"
     },
     {
       "path": "bin/HKConfigDatabase.dll",
       "size": 250368,
-      "sha256": "5185c97a70ec5f13dcc7f23e69b38d1d2df7674ae128516173141c5939d5b930"
+      "sha256": "904b78bf31e95338f9a61766b58a4822cf1e783aed8aa8f4a27c1d1bb9ae45d6"
     },
     {
       "path": "bin/HKConfigDatabaseAuthentication.dll",
       "size": 67584,
-      "sha256": "b44d82e8945f0d003225b84e3d516b7bc87505878e43a7f1e087be34295f6b45"
+      "sha256": "682e543e377944db02328cc4bc7926453d4e640083179a40720967ad640d276c"
     },
     {
       "path": "bin/HKConfigSection.dll",
       "size": 59392,
-      "sha256": "6ac3b9216e1911c113f5f44940b33ec747c2b19a0fbcd5b2742b74580e3ab735"
+      "sha256": "b6350618c0262dcaf1056f3be8ba9e6b177f07b94889491f2132104684148858"
     },
     {
       "path": "bin/HKConst.dll",
       "size": 15872,
-      "sha256": "485fdbbef1926cd1b2b75477f4b01ea4bdcca053dbb9d4b0433c35ca267d68e5"
+      "sha256": "de8ad5232016c9d8e69f13753e54d97750194bf69cdc19a738d2b2fadd2b3e59"
     },
     {
       "path": "bin/HKContralUnit.dll",
       "size": 24064,
-      "sha256": "76ed228cfd1bb48a529459215c9515ffd14dc1d84e0003f767ccb117df1f4e0d"
+      "sha256": "27bddbd4c9402fee2594b8e3596e3458b17e448405bcde564c71487d82d898e5"
     },
     {
       "path": "bin/HKCredentialSecurity.dll",
       "size": 26112,
-      "sha256": "69528faeb068377842579f9cc0b2e2fba985e8bc7e2a173493fe5dcf22b9c633"
+      "sha256": "7775d3a52dc326f4cd9e9e403587dc433f357f724fe6f59c6d3e5d35ce306cff"
     },
     {
       "path": "bin/HKFANUCRobotDriver.dll",
-      "size": 358400,
-      "sha256": "014d797076b008d9db7c10f27721cc54680c6b294d8a7a313f31c569782b9835"
+      "size": 359424,
+      "sha256": "8b8bcc64ac27ed63fedc4045e3d6252379657de934a845bd3ac1d5c8d9db9f8c"
     },
     {
       "path": "bin/HKFTPClient.dll",
       "size": 73728,
-      "sha256": "4cfbebd78d3ddafbe34e6587c0bafc5f062482dc0799dfdc69e34acfd0da6f73"
+      "sha256": "cc130f0df7cbe265a78de6eaf9b1f9b642c22061c5fe13582c4ac0c777f6e973"
     },
     {
       "path": "bin/HKFanucTpContentIdentity.dll",
       "size": 28160,
-      "sha256": "ac829e681875852b11f7983ee0bfff4e912a27f18eafa535af3c7ca735dbdf66"
+      "sha256": "ce06772ae643c3e814cb978a4ce758178b5a442b394e771ee78fefba2b65b4c1"
     },
     {
       "path": "bin/HKFunctionTestDialog.dll",
-      "size": 706560,
-      "sha256": "88168e734ad54f2015bbe549d2eb28d93c241a3239a8bc90a7ed3f0c7649af6f"
+      "size": 707584,
+      "sha256": "5c5bbcd86105c1c9e281619ac8e547f3e06b716d42e4e54fab4d73998c636141"
     },
     {
       "path": "bin/HKHandEyeCalibrationDialog.dll",
       "size": 286720,
-      "sha256": "173170204e71f95e1d174df157e98caf1e27152158f4fe5600019d2760889441"
+      "sha256": "9189e473af1fd409fd7eb27aaa6bf487ebbf6cfb5d8fc347def0add466c09b42"
     },
     {
       "path": "bin/HKHandEyeMatrixConfig.dll",
       "size": 73728,
-      "sha256": "3e4f6ef5acbf7fc87cca584200ca158477c23c21dbc5ec9e58a12eb491236177"
+      "sha256": "05b339cb02bb1bee7dabdb8f3f0943a2f1014dd2a20976cf00b4f1ff545da519"
     },
     {
       "path": "bin/HKHandEyeMatrixDialog.dll",
       "size": 77312,
-      "sha256": "ff00b3595b3e7d28cef355ef7c1fbe5feb400e653d7e2c7c1f0b97b41fee45b6"
+      "sha256": "62fb6d6490fc5d6117618ba348db97da06904f418a2260449df625dfd94f793e"
     },
     {
       "path": "bin/HKInovanceCalibration.dll",
       "size": 244736,
-      "sha256": "58f315d902d05f0779e4e0256b6e6a8f5b628ef87edd8e80c8a3048f38745ea4"
+      "sha256": "6a7dbcfbcdecdee66f596f179b6495a1f6eb5e7f66a490ed72425d61bde1430b"
     },
     {
       "path": "bin/HKInovanceRobotDriver.dll",
-      "size": 831488,
-      "sha256": "616353b16e8dea1bab9e72a6bb539e34f161e0748bba9081b7c8918660f813f8"
+      "size": 832000,
+      "sha256": "d7f43980a98cf90f36bf258df0df42ba33be48bbec172ffd773cad6ada3924d2"
     },
     {
       "path": "bin/HKLaserFramePoint3DFilter.dll",
       "size": 14233600,
-      "sha256": "6b1c6e69d9fe97aca872a571bb983d8349f07adb83fb7621502398a24f34fdc7"
+      "sha256": "01783c7b5ff2fbfba36c644d2756d9f6e7d2eb12d14ef06d476d8c4001393fdc"
     },
     {
       "path": "bin/HKLaserWeldFilterDialog.dll",
       "size": 217600,
-      "sha256": "889a956daf07ff27d7e9877477afeed3a1098c6310c0dfffe842b45e28d5fdd1"
+      "sha256": "54e42375444cc85d8446ef93eebe4d337220b9617dbc70f8f46cdb0c65f7de52"
     },
     {
       "path": "bin/HKLicenseDialog.dll",
       "size": 78336,
-      "sha256": "039eaffa9fd24dc663b23ec406012ee5469d4b1fe288e07473b941c4ce26b6e1"
+      "sha256": "3991bf1b38a46b58f49e8008b2e5fc4e4c8f3988a5cd8c14502d8f4c7cd9c629"
     },
     {
       "path": "bin/HKLicenseManager.dll",
-      "size": 14229504,
-      "sha256": "aed8efb10d804b4fc0400d3c738a67a1193bc2d6dce28f66b8c414d7db0f833e"
+      "size": 14230016,
+      "sha256": "b2c9e1b3f9a3f1e03ab21b64ea76b30e60598b3674d99d7c9570947cb895b7c8"
     },
     {
       "path": "bin/HKLineLaserDenoise.dll",
-      "size": 85504,
-      "sha256": "b44f283842ce8e3eb3ca92d100bd3df052f5c387349c65e87a7fa28a42ed4357"
+      "size": 96256,
+      "sha256": "cef2e84291719a7e127c20a0dd6d4b055829f6ffa713d5aaaab149cc66cb936f"
     },
     {
       "path": "bin/HKLineLaserDenoiseWidgets.dll",
       "size": 116224,
-      "sha256": "82a9b889c34fbb4be98d5181469966b8604100ca5cae4b8e2e5e9702ea5a20de"
+      "sha256": "797574cd1b8b5b8e3314aba47df7e73be1ec441057904eac312e27a286f94623"
     },
     {
       "path": "bin/HKMeasureThenWeldDialog.dll",
-      "size": 388096,
-      "sha256": "34cc44b8ae46187ad1dbcf421c1594a3071a7950a682fe8d7640b4b8c3ca09f8"
+      "size": 434176,
+      "sha256": "48d83b69d315356478d980cc7e083753e8d660076999ff9187a3b313737f81e7"
     },
     {
       "path": "bin/HKMeasureThenWeldService.dll",
-      "size": 1189376,
-      "sha256": "fa87b2c8a068be3b183b2334418c175dfe5268a51a0a97aa0c4e92e930d2238a"
+      "size": 1323520,
+      "sha256": "6df89565df6ee7226a81245d671acbb166d8dbc744c5924b19743f9b8ed29b81"
     },
     {
       "path": "bin/HKModelAlignmentConfig.dll",
       "size": 26624,
-      "sha256": "77fcb5fbb73d62abc7edd242a1fb7daf336c5ef6528d0d557b54f79b240220ca"
+      "sha256": "88ef2444e3c65b35c233d47c29416d908a8088c37f30ab612641e597db021c22"
     },
     {
       "path": "bin/HKModelAlignmentDialog.dll",
       "size": 174592,
-      "sha256": "62794c1f92e6522fe654e9538c22bdfe5e5df74bcce22f167bc089bfc5800830"
+      "sha256": "eaf710192420095f8018561c109344881568282f13f00fffe90d9d5c6ba5192b"
     },
     {
       "path": "bin/HKModelWeldingFlowDialog.dll",
       "size": 495616,
-      "sha256": "63499700809be974692d97e6567c20bafd8fa083c0deb46237af7f9bde417879"
+      "sha256": "85750aa71366054b962c3f82c6d5eb2dfe54f260eb1e3a8064e16d8fd28c15fa"
     },
     {
       "path": "bin/HKModelWeldingWorkflow.dll",
       "size": 208896,
-      "sha256": "b95968f78abd2153ec5b26f06941319e00a407839ab1b9bc7b6d9f729ff31a7d"
+      "sha256": "e39802e2d2c1edae315a3a6cdefd231fc569a0607aa414648ba07922ef8bef8e"
     },
     {
       "path": "bin/HKOnlineServicesDialog.dll",
       "size": 322048,
-      "sha256": "e1bb0961f73873c4a7666dae773590d72b827df685b5051a4075fa76c99188a7"
+      "sha256": "621a4eccc3b931ed60749eeb3dffe0022ff081eac547adff888bb211399215a5"
     },
     {
       "path": "bin/HKOnlineServicesLoginDialog.dll",
       "size": 57344,
-      "sha256": "318adc0ae003a43b30fc8d921bd9d5bf6183498be4486bfd89b6b55dc8f7f87a"
+      "sha256": "9acc006d1028db8bca4151d1b46496e7f5128d8e659c60a2a33a619c85ac7181"
     },
     {
       "path": "bin/HKOpenCascadeOperationGuard.dll",
       "size": 10752,
-      "sha256": "c76e0e43687aab787f0a561e9e4c09dbc722c390fcca967b5ec9eabdd3b18276"
+      "sha256": "d6bb1c4f9506f5698c1a123d55256170aa7eb2a7be4a65b7488932b790ad148f"
     },
     {
       "path": "bin/HKPassiveLineScanDialog.dll",
       "size": 73216,
-      "sha256": "0ebdbbd5cc54c7dfa8db73bb7d061e81bba544df7ff6f7c4180627b76e2c106b"
+      "sha256": "d4de385adc3feb0b8e9ba879989f4506dd4a8b0a7cd5e5108e5cb6d93a95a3a9"
     },
     {
       "path": "bin/HKPassiveScanControl.dll",
       "size": 45568,
-      "sha256": "89d1bb7f8297bae706bf549e82a8d99ec26945a2788065a81b664a4b8940e8e6"
+      "sha256": "e2ed68655f9d192a6cbf047dbef8d0c28e992ed44e31d4886705e960d0dc0960"
     },
     {
       "path": "bin/HKPlatformSemanticValidator.dll",
       "size": 80896,
-      "sha256": "c33eea1d3f5f3361142fdcf1f4d06f80f904dd4cfca6b7a301078c067072aa52"
+      "sha256": "40c391a62a7a3c45f0916d86f58d11d0d70a5d97ccde7ef1e7afe6135bfd8228"
     },
     {
       "path": "bin/HKPointCloud3DView.dll",
       "size": 30208,
-      "sha256": "d11ad9a1b694afdea5864bcf5d59bb0b6f4e84589aa64b878f840fa95e71204a"
+      "sha256": "55a492fd965bffa909b3fe004c065f83d76fd089064ee879bf6e7b87a09c7e01"
     },
     {
       "path": "bin/HKPointCloudExtractionProcessor.dll",
       "size": 123904,
-      "sha256": "75b643f2d9cc34a8bfc3acb2b62f45b9aa071981db539db825c1104eb89c1871"
+      "sha256": "e0deadfe241b980fe62c419d35232406ddee02ac5475c2f00e0bfb6c4948d93b"
     },
     {
       "path": "bin/HKPointCloudModelDenoiser.dll",
       "size": 38912,
-      "sha256": "bd562618dae396f1f9185ce046f8d33a0a550d69d35c127304876e2a9822a654"
+      "sha256": "51354103fe16563c631d06119fca9f2ad69e5e4f3b686dc9da86948b06c55899"
     },
     {
       "path": "bin/HKPointCloudProcessingConfig.dll",
       "size": 87040,
-      "sha256": "8dfb3951233a87423db5da1ab42366603ca6e6ce5f0cc0ec4448d69e7f64c21d"
+      "sha256": "3dd48ce0741a3d86b25a026c30363c9b8e9e388a77a47f0a5f0ab93cfbe191fd"
     },
     {
       "path": "bin/HKPointCloudProofIntegrity.dll",
       "size": 79872,
-      "sha256": "82adaf0a811db9ec866ce364f9e8ba9980806a188ad68abb1b3e1f8e024322b9"
+      "sha256": "11a11609ca3b4c0a00e79a2ce7298924fe0911dff39ed1f54f419468a721249d"
     },
     {
       "path": "bin/HKPreciseMeasureEditDialog.dll",
-      "size": 304640,
-      "sha256": "763700257091c8de361b5ebe5eefed6ae1326d5fa00efd1ddd0e77f35d624af2"
+      "size": 387584,
+      "sha256": "1aaac85d5da9d448247f981b4f6db905ab254de4da1d979a8b4059d5619f98fc"
     },
     {
       "path": "bin/HKProcessLoopTestDialog.dll",
       "size": 128512,
-      "sha256": "5ed24cc244ea46439fe685bfdb32ff305d69a50f07a3caffdbc3d3fbaadd28b7"
+      "sha256": "62f176560244cc4eba03d43c29afbc8d25afe8b1bf4fa238bdbd2ca6b02ce832"
     },
     {
       "path": "bin/HKQtWidgetsApplication4.dll",
-      "size": 1532928,
-      "sha256": "d85ae7796a6eb3d78ce2db19f380fc811469352689f250b4c6b3854a1581ab8a"
+      "size": 1553408,
+      "sha256": "fd91ccf516fa7672ac256d577cfe8808b02409c4942c7ac76167696dfa9b8407"
     },
     {
       "path": "bin/HKReferenceModelLibrary.dll",
       "size": 99328,
-      "sha256": "1916730addfb4d76dff8d5a46357c5dce5ef4e49cac94c711f073b54aa0c3461"
+      "sha256": "dff71bd702f91c292b07ecbe7cd68b1225c1c7a0754569d0f69f5ad9a9a4b409"
     },
     {
       "path": "bin/HKRemoteArchiveSecurity.dll",
       "size": 88576,
-      "sha256": "cd823b18822a7002ade0debd8930f87ef4c232837d2981c3932b034a29bf9442"
+      "sha256": "cbdff276d95b26e854b649693c7affb0f73bcb61a24c55e1a6e96b4201fb070f"
     },
     {
       "path": "bin/HKResultArchiveDialog.dll",
       "size": 93184,
-      "sha256": "c9d27b64679b2506134867a18419a0a59a072a92ddf17fc1f360a20f52d42318"
+      "sha256": "5c7c66e8b1e030410fcf79323e6366dd4361e1a53bd07640f2c3841d7a0c1f91"
     },
     {
       "path": "bin/HKReverseMeshSeamProjector.dll",
       "size": 24576,
-      "sha256": "8bf59a4e2dde4814bdc8675de24a614d4716bc899cd8f02fcc8a6b6584c4c1b4"
+      "sha256": "041d517376baf5116bda7db651fa118f873ad3463c913a1a2461e86eb8711126"
     },
     {
       "path": "bin/HKRobotCadAssemblyLoader.dll",
       "size": 111616,
-      "sha256": "fcd76731957c66fd09a86d3c8ac65c641fd61a0ec332cfbbbb037b7ebea7e328"
+      "sha256": "a8dc1637683689356887bce21fe3c85ac373cf46ae0b80cf5ce3505031a67b71"
     },
     {
       "path": "bin/HKRobotCalculation.dll",
-      "size": 14527488,
-      "sha256": "7580e1166241d83aaccd106c9783464446e377f966186b2f999f479aa888c17e"
+      "size": 14528512,
+      "sha256": "cf111371906d48f3d7b3c2970c3b0032f6eae4790a9d259d339cdb1d50718d99"
     },
     {
       "path": "bin/HKRobotCalibrationDialog.dll",
       "size": 150016,
-      "sha256": "368c976fe4d28cc2843728dd13c25926db26444e264810c73ac6cc08a1e5cd25"
+      "sha256": "a150e74811b0020ecd1cbd351dab5e5dd99335691523637c1eda0c860e734537"
     },
     {
       "path": "bin/HKRobotCalibrationService.dll",
       "size": 129024,
-      "sha256": "efd31f73f37662f429a8ece248aaa82e02c85627f06cd9f699728ee56ebb183c"
+      "sha256": "f7c854d104220e16008bc463f4182a844614ba362d66b5a4e66aa67abbbc77b5"
     },
     {
       "path": "bin/HKRobotCollisionEnvelopeStore.dll",
       "size": 94208,
-      "sha256": "d3f17713db86fe41bbe1f6d127164a481430f11c8308ac964feee7d5acc1f0ef"
+      "sha256": "1f56cf309b1a651a3d2d9438413d83050e7000ab93551568c8438e39082c9120"
     },
     {
       "path": "bin/HKRobotDataHelper.dll",
       "size": 105984,
-      "sha256": "e6d03f14107c16eb1ede54140b24bae01560611b5ede015b7e3d0d17c864a142"
+      "sha256": "cb1a4b14d0f0e21529249f15282701cdbc05cab709c66de9b822df8f4fce59d2"
     },
     {
       "path": "bin/HKRobotDriverAdaptor.dll",
-      "size": 188416,
-      "sha256": "ba539b23e4c299b6b1fc27f7c238bd1e27d10abdab928757858ecf42ac08175b"
+      "size": 268288,
+      "sha256": "92214e59b276036b96152f099c321d163d0fbe415a9cb0128554a1402c42378c"
     },
     {
       "path": "bin/HKRobotDriverRegistry.dll",
       "size": 23040,
-      "sha256": "ee08a6c9f3258cd2f55d50ba8a6f4016e5c037bd5f314ba3731278ae455f5254"
+      "sha256": "15afadfbfc15e86989dd1f767512d1c89643972b8eb8cb491e96ce0ca5c9c1f5"
     },
     {
       "path": "bin/HKRobotFtpFileTransfer.dll",
-      "size": 64512,
-      "sha256": "036c0210a7827efaa421f8e9b9e09bcd4b9e80ecef778dab0b6c2915b6cc58b3"
+      "size": 65024,
+      "sha256": "2a398642241814d8492cedadc1dbc38ec859a9a7d82edd64f2ac68ae207dc946"
     },
     {
       "path": "bin/HKRobotJogDialog.dll",
-      "size": 118784,
-      "sha256": "d1528f71104c3a30d0bf7f228abdb20dbfa9dc5721ac5561cb5c3e69be1ecc43"
+      "size": 119296,
+      "sha256": "8099fab94ab42b335d1c040aa0eb96fca4011d7d402fb00111c6b515c780bf1c"
     },
     {
       "path": "bin/HKRobotKinematicsModel.dll",
       "size": 14427648,
-      "sha256": "07da78aa24e17e80e196d9a710c0e543cbfc9336f191b6f713c5e854a68c0414"
+      "sha256": "36fe6516e2857827f1b9c9b8863b1783494bbfb96424355d135b87ab8ee161a9"
     },
     {
       "path": "bin/HKRobotLog.dll",
       "size": 66560,
-      "sha256": "712fc85a201e62323d43902233c1f1c72c2629462076623522197e8b83195e89"
+      "sha256": "ee5d036a8ccb27785edef737bd2b27c1e73e9c31d8d90769ac170981f4cffacd"
     },
     {
       "path": "bin/HKRobotMessage.dll",
       "size": 25600,
-      "sha256": "2bb6350dff5d72632c6c6e16007d5276c671158200802d0a79d3ad7539255247"
+      "sha256": "aad80f43e8e5064a3a8f35f3752ddfc85f3e757b18c6d74c8ad2b9c6acca3da0"
     },
     {
       "path": "bin/HKRobotModelCatalogStore.dll",
       "size": 109056,
-      "sha256": "4b0dcface5e8b048c4b67fd7e11a80736716c093dcfce4405da4308d5110f0b9"
+      "sha256": "b9a71f8672163d73f1dadc7ed493b4b910acd7f13bb580a1ff65be64dc62a417"
     },
     {
       "path": "bin/HKRobotModelManagerDialog.dll",
       "size": 278528,
-      "sha256": "39cd2a70880976b44221d0c15f0f1487a54de1bc1aac4a26c76c9d66e1061d89"
+      "sha256": "b216715a5a2b9459356c25c4385901bd804b0c68706d07b3163fb388db6fcd41"
     },
     {
       "path": "bin/HKRobotModelOriginalPreview.dll",
       "size": 53248,
-      "sha256": "683a1f762e5e954251b1139592452250edc2b8fc4fd9e49f139d03efbda4f67c"
+      "sha256": "cd79acfdc6e96e3d9cad099a2e451e900a78420a704b4ab607cb7c8758f388d4"
     },
     {
       "path": "bin/HKRobotModelRemoteCatalog.dll",
       "size": 115712,
-      "sha256": "1495b76106c159a3b446e7a9db7326b927491cbb4b2df1f4723df2d2e834b57b"
+      "sha256": "2bf3a223d67c60ef672789d4b2f21495b63d40fc4b7eab177b1b24ffd37c3074"
     },
     {
       "path": "bin/HKRobotOperationLease.dll",
       "size": 60928,
-      "sha256": "008e908ade967741e16b6c73d6bac0bdceeff5e946fe28ed95928ff54723ed6f"
+      "sha256": "84b439f05f65f381fb7feec95e69d2a9589c2e95288ba0c5c3686101112cb23a"
     },
     {
       "path": "bin/HKRobotPoseTransform.dll",
       "size": 17408,
-      "sha256": "76ebdfc7d138db13fe1d933eeb64e7c2d3d4721ce38635f203c581801e693d19"
+      "sha256": "9fe8169c4a1efe6b04c244ffbf12023c21fb323873ad076f5c3e54d84dc2bea5"
     },
     {
       "path": "bin/HKSKJCameraControlClient.dll",
       "size": 25088,
-      "sha256": "3e8fb84b5d31882e8aa15819bc536e75e429f783da3377fe3c8356bf773fe950"
+      "sha256": "536f792b72e08d6672b49514352864b604e73d3741725307d50d938044ed8bc8"
     },
     {
       "path": "bin/HKScanDataUploader.dll",
       "size": 152064,
-      "sha256": "7cecffb2d3e2ae93406d3f1b44ddfc775439a9d91151370ac939bcdfcdbbd64e"
+      "sha256": "66af41215b8f38132d046e35c7d805d7c736c894da3d119599c490716d82b54a"
     },
     {
       "path": "bin/HKScanPoseVariationTestDialog.dll",
-      "size": 232960,
-      "sha256": "25e1e2c5b14d2325a046e0e7d49a960a4991072c233b1fa6e3261007afb45407"
+      "size": 232448,
+      "sha256": "e237197d96114793ac1c2ec52bc06eb859638774d58eaa037256ba4d4e19debd"
     },
     {
       "path": "bin/HKScanSafetyGateDialog.dll",
       "size": 120320,
-      "sha256": "220baa1f142b6f4eddab7cb5524046c2cc63580c8f2bdfecb193605cd08f157c"
+      "sha256": "abaceaf9528928fb89498f02996253379280de7636c236504771f14a8751700f"
     },
     {
       "path": "bin/HKSentinelLicenseProvider.dll",
       "size": 14183424,
-      "sha256": "d29c08364fd8f8a8c82aed8154c2c1fa0d0cef0bf9cbc1a41baf232281855e31"
+      "sha256": "f871fe7352517fd4a98eb09c1185097c0943a9de31000fc765cf978371398cb7"
     },
     {
       "path": "bin/HKSkDataClass.dll",
       "size": 57856,
-      "sha256": "923453d8e70fe2a6dc18a1a517bf7e45976cc1fd7b22a2b5a7dd65f0e0a5efbe"
+      "sha256": "1d2a016aec7d264b9e20b1dc17885c5dc7ece45aeb9b28e93c596d944873ef75"
     },
     {
       "path": "bin/HKSkFunction.dll",
-      "size": 153088,
-      "sha256": "b7a4718afa40cee8fd33f7ba45e04399307e51ce4775ff18f88c2c2ebd96883e"
+      "size": 152576,
+      "sha256": "7e299eda42df96a10267314c2dae6acb9f47e1bee946e9a591b58e99dff95830"
     },
     {
       "path": "bin/HKStepModelImporter.dll",
       "size": 84480,
-      "sha256": "e9e0973ac1c24b6a408183c8dd8a3eadd08577a87e202d77439497988348d2c8"
+      "sha256": "571be5b5e09239868755aa533127eb6324b7951199c52fe28b7726f42529df8a"
     },
     {
       "path": "bin/HKStepRobotDriver.dll",
-      "size": 540672,
-      "sha256": "536c06a23d488e2fbef780bad204b7759b370b5d62c8df973a05217f02903f58"
+      "size": 694272,
+      "sha256": "83084ec4755868fd258149730a0e07685080f935bbecc98920d2876938fde015"
     },
     {
       "path": "bin/HKTheoreticalRobotModelStore.dll",
       "size": 75264,
-      "sha256": "d2f4d02425817b56a15ffa6580cc19a21e60c105298c925fecef170cae39803a"
+      "sha256": "6c5e0c47dd5b63e9c7a0c87a52a9e386d0f57220cdb6cd8c166e79f71a48bf3f"
     },
     {
       "path": "bin/HKTouchKeyboardManager.dll",
       "size": 76288,
-      "sha256": "bb91bb46edef7fe5b2673d4f2ee21689c71a9c35c5a1ad6d641acb4eb82404c8"
+      "sha256": "f056f4ad427ca1d0a27c44bc0f7824b268189ffef7f5299d489dd5ef3d032fb1"
     },
     {
       "path": "bin/HKVirtualWeldTestDialog.dll",
-      "size": 110592,
-      "sha256": "9b769b20e5a5d73ac04050a4969ea03579f38cc6cbdb9e8bf9016d5126a7568a"
+      "size": 111104,
+      "sha256": "23881c1761d09cd54d10000fa55b69679e4fac40b54c2fab9234a0fe679322a2"
     },
     {
       "path": "bin/HKWeldPoseAverageUpdater.dll",
       "size": 94720,
-      "sha256": "ba92376d9e2247c8280ff2e808ed6c75a6776f13ff929ee0afe29b7acd05b88a"
+      "sha256": "641aa8decb62fcaf45bddc9d84aa1dc87ddc4a988a94015734afe1bcc3058341"
     },
     {
       "path": "bin/HKWeldProcessDialog.dll",
       "size": 195072,
-      "sha256": "fc0bf47670c689c03dcea1ba40a55311a1801e6279b5273cfa05bae74a68aee9"
+      "sha256": "c5053c665bf7e6774c368a584652a5b6ae7d18265dc468f38075f1580080608f"
     },
     {
       "path": "bin/HKWeldProcessFile.dll",
       "size": 162816,
-      "sha256": "16675b59f25418d31f154dec4b5765324b8842cf677b10255bb9ba32a102dbba"
+      "sha256": "faa3fdf310d7bc617954a3d9cbe0ba2fcde31d56880892d7eaadedf9197e7b57"
     },
     {
       "path": "bin/HKWeldResumePlanner.dll",
       "size": 97792,
-      "sha256": "1302bbc34f1931625afc4441cb2d5f7443d73bd67641a02a282bce3f82055f60"
+      "sha256": "cc49efd3febd914804e427371baa3e0f64f97f0cf25415fa446c2b036d5478da"
     },
     {
       "path": "bin/HKWeldSafetyRecoveryStore.dll",
-      "size": 103424,
-      "sha256": "d2898aaeddefae5562cd95d1cddc129f6ecd32018ef67c4c4be4087ac4998f66"
+      "size": 104448,
+      "sha256": "c7a69f94a80ec8d0608c9fa1874f533e97b6aa4baf953fc9b1b43bf2fd9d910b"
     },
     {
       "path": "bin/HKWeldSeamCompConfig.dll",
       "size": 52736,
-      "sha256": "a39907e837417f8e2915ccedf82380eb9b000f4c5e1c1700bc8e1de92d90ceaf"
+      "sha256": "937a2ad37d0b2c7383804ee3459d63af4159b5160690790e35ea0ccd936769ee"
     },
     {
       "path": "bin/HKWeldSeamCompDialog.dll",
-      "size": 459264,
-      "sha256": "00d45876882c326606a022640dbda31daadf5eafb8321a4ff36d5aea76322b6d"
+      "size": 461824,
+      "sha256": "433cf27e90b847c3e0f554a44ae1386d5f6cf62dbbafcae5d731cc58e9611666"
     },
     {
       "path": "bin/HKWindowStyleHelper.dll",
       "size": 56320,
-      "sha256": "a9f4c5a525e4a31ca8866674daaa0ce6cf2a9d903f17f3d3570679c2f671bbaf"
+      "sha256": "193f26bdc54b8b610178dfa9b91effc6cb3a7e70abe8db5c0f338a557052db37"
     },
     {
       "path": "bin/HKWorkpieceMeshBuilder.dll",
       "size": 100864,
-      "sha256": "d7ba913f98a429f89709c6962b6fb81d2fa035a90bdd857fe5779ffde7aea947"
+      "sha256": "45c5b76a95eb17fd73a391077f4dd28b15cacfdaacd4c2918535a6cd23ce2838"
     },
     {
       "path": "bin/HKWorkpieceMeshViewerDialog.dll",
       "size": 225792,
-      "sha256": "d5743793ac7239b8d0b817e5a578bce25837c66d9549baab4289bd8a79939d1a"
+      "sha256": "7b55649066a0b64bdb4a66f4be753fd6de6b96068e5a43912d9c24a22028cbb5"
     },
     {
       "path": "bin/HKclientudpformsensorworker.dll",
       "size": 70656,
-      "sha256": "fac3173f4252644e87bc5d73f0a30f21e6971de276b8b9a496e80164ecf1b133"
+      "sha256": "c3a77057f26c5c1723257fad938a8e55ccdd7227f0063996eac6f5f45d1b4a79"
     },
     {
       "path": "bin/HKframebuffer.dll",
       "size": 13824,
-      "sha256": "e1cba79db28953f26dfd391798ecbee84b8f79a8a46df1b5245398d2dc5f9bc7"
+      "sha256": "f42bd768242cb9ab444f83b5888e37b7e488772d1c153d91bbf755c1c5f325af"
     },
     {
       "path": "bin/HKpointcloundresultframe.dll",
       "size": 10752,
-      "sha256": "0ddcc6e371f13fde33c60454347114af0424c2322fe400653e3394f9b118e8b4"
+      "sha256": "4635ff9059f15abc22a5b015aa2d91921decb2e63b9ad7d495ce45c9e33ee116"
     },
     {
       "path": "bin/HKscancameraskjworker.dll",
       "size": 65536,
-      "sha256": "41e27ed8dddad33ad69257d2b1489f9e72124895cfa2e822c5f135a6a76e61e5"
+      "sha256": "705a8b43a5caa6095a939d7cd2b296f9f065ee54c32bd92c223e37289f8230ec"
     },
     {
       "path": "bin/HKscancameratcpclientworker.dll",
       "size": 56832,
-      "sha256": "f1ab8379ce1de840c65e8445ee8af837482145c4a6f7aadfb9ccd7ff4367fcee"
+      "sha256": "28c779287f5d4ef23f467f9e76716f10232111eecf831e7a4c9ca513324be709"
     },
     {
       "path": "def/HKAppEntry.def",
@@ -652,8 +652,8 @@
     },
     {
       "path": "def/HKFANUCRobotDriver.def",
-      "size": 20616,
-      "sha256": "aaf0d68b1e753b080e2d8ca6bc343b9029f0818b058d9922d2ecb1a979a454c2"
+      "size": 20444,
+      "sha256": "9063f5e3c5b1a4b01ecc702d1602a3b946e84ab8e5dabf9834b334f6ff215e7a"
     },
     {
       "path": "def/HKFTPClient.def",
@@ -692,13 +692,13 @@
     },
     {
       "path": "def/HKInovanceRobotDriver.def",
-      "size": 99424,
-      "sha256": "5e006757ee064b1673442a1063287212eaa3d55064ef2052bd45a9b27922f4f8"
+      "size": 99021,
+      "sha256": "aded71613fe420594eecc233e199693743c863ea10c2e52aafabe87030ecb46f"
     },
     {
       "path": "def/HKLaserFramePoint3DFilter.def",
-      "size": 3031,
-      "sha256": "db52d9010c5663c2d7e6068f0b6f88c2fca21f28dfb77792afbae55a71d8c8c7"
+      "size": 2926,
+      "sha256": "032d2ea01cc2bf25dc273d0777de9a4358462c323f07bb7475166079c870c15a"
     },
     {
       "path": "def/HKLaserWeldFilterDialog.def",
@@ -727,13 +727,13 @@
     },
     {
       "path": "def/HKMeasureThenWeldDialog.def",
-      "size": 7916,
-      "sha256": "170268398eb0a9c5138699fcc380a518cba1e6d6f6b67c9d15c5f517543afc6d"
+      "size": 8129,
+      "sha256": "6e3ff1dee458e678d2fa38799d671e500330f6e553ecdff0fbaf933461d65011"
     },
     {
       "path": "def/HKMeasureThenWeldService.def",
-      "size": 37767,
-      "sha256": "247bab897dd9af455020473f6791ae085dc4b5fb9725849fdcf0fe8583737d1e"
+      "size": 47656,
+      "sha256": "5f33de466a2647af0ae2a48e9629219899ccc22960296c306bbab5799d436997"
     },
     {
       "path": "def/HKModelAlignmentConfig.def",
@@ -812,8 +812,8 @@
     },
     {
       "path": "def/HKPreciseMeasureEditDialog.def",
-      "size": 18385,
-      "sha256": "1b64afebb1c6bcf20370d2a03d1fb855f14f9f43fbf3936aced4ea59aa612639"
+      "size": 29565,
+      "sha256": "23ce01f587a50c8351f7b85c8d00912e53d47db5ca570b466957f33716723e9b"
     },
     {
       "path": "def/HKProcessLoopTestDialog.def",
@@ -822,8 +822,8 @@
     },
     {
       "path": "def/HKQtWidgetsApplication4.def",
-      "size": 47189,
-      "sha256": "262452d27a0d9d406074241a34c2fde5a842d5046d9988d5c9b30bb80726d91e"
+      "size": 45220,
+      "sha256": "19c2e3f74dbeff2c6a863964cd5911eb52c1bada667d7809fb718572aa458ba9"
     },
     {
       "path": "def/HKReferenceModelLibrary.def",
@@ -852,8 +852,8 @@
     },
     {
       "path": "def/HKRobotCalculation.def",
-      "size": 9416,
-      "sha256": "467c9713387521635306c3ae5697351233b63910d3dd7390ae1498db8c56d56b"
+      "size": 9347,
+      "sha256": "506735d4f259059a28aeab06a39b25d9666cfda9d8903e079e99c5ca55191bf7"
     },
     {
       "path": "def/HKRobotCalibrationDialog.def",
@@ -862,8 +862,8 @@
     },
     {
       "path": "def/HKRobotCalibrationService.def",
-      "size": 13146,
-      "sha256": "ee61cb732ed6da6188b0184c85a70f2aaf0bb5b5cde60b1a3e89ec2516bc4b11"
+      "size": 13058,
+      "sha256": "0e7040b2dd4364f9880f2aacef35112e7d7db7dfbb5efea0ed3776756ffab083"
     },
     {
       "path": "def/HKRobotCollisionEnvelopeStore.def",
@@ -877,8 +877,8 @@
     },
     {
       "path": "def/HKRobotDriverAdaptor.def",
-      "size": 16891,
-      "sha256": "9ddcd19b5cbc56afb7de4f6f8fab9b5bb73e13c3ce886e6f2e7b02dbde4b6039"
+      "size": 17914,
+      "sha256": "fa44fa3ff5def80016dec87334d502c6e8fa7b31c1d3a9b3d67830dc36a23aa2"
     },
     {
       "path": "def/HKRobotDriverRegistry.def",
@@ -952,8 +952,8 @@
     },
     {
       "path": "def/HKScanPoseVariationTestDialog.def",
-      "size": 3643,
-      "sha256": "63972548934e4e384fb16bae66201d4be743805fe28cdc2f9f0aaec623732f74"
+      "size": 3062,
+      "sha256": "8f102185d1f4b550cea28e4062be1c42d18bd51eceb9da21a4e99ab879696d86"
     },
     {
       "path": "def/HKScanSafetyGateDialog.def",
@@ -972,8 +972,8 @@
     },
     {
       "path": "def/HKSkFunction.def",
-      "size": 13632,
-      "sha256": "fbc0ddf6c05661ef5732982bbc665dc6542464dc331f95efdea69a7b5cf9a413"
+      "size": 13443,
+      "sha256": "6a0b8913230ea0e6ddf7b7b8f5096478b8c85ae0eec269a8c8b7abea46f3ddaa"
     },
     {
       "path": "def/HKStepModelImporter.def",
@@ -982,8 +982,8 @@
     },
     {
       "path": "def/HKStepRobotDriver.def",
-      "size": 15279,
-      "sha256": "f3bbdbbaf032289b78587fcda02b8fcf7881f0330865b9370750d09724a14eab"
+      "size": 19996,
+      "sha256": "213de58a9a3e65d7ca4afaed2d3f3670e2205497f18abaa5ada5d550b41b950e"
     },
     {
       "path": "def/HKTheoreticalRobotModelStore.def",
@@ -1032,8 +1032,8 @@
     },
     {
       "path": "def/HKWeldSeamCompDialog.def",
-      "size": 11708,
-      "sha256": "e799532b72b53914e2558da11425dd522a04e8253a1043fdca6f1ea3e174dcd0"
+      "size": 11677,
+      "sha256": "92e3c40b07158094f92e16087d50296445c19def4623c098aff6bee929440243"
     },
     {
       "path": "def/HKWindowStyleHelper.def",
@@ -1077,13 +1077,13 @@
     },
     {
       "path": "header-module-map.csv",
-      "size": 31559,
-      "sha256": "55a13ffafdc420dba4ab16b5f824ac78abbf3c23cd8ce5d9e959dab6866a58d8"
+      "size": 34291,
+      "sha256": "a7ee94f06f4797e8f44c5a3577ebc3eb938cae54d3c0e027f14be88d7e2ee91d"
     },
     {
       "path": "header-module-map.json",
-      "size": 107525,
-      "sha256": "198e722df58f75a5e55a60293e1fbc464bf0045a72f23fdbff674da42690963e"
+      "size": 114052,
+      "sha256": "417c6a0ef9ab2f74f2b45e79ca116938c314eac6e970df19c6664ee478559e69"
     },
     {
       "path": "headers/generated/ui_QtWidgetsApplication4.h",
@@ -1157,8 +1157,8 @@
     },
     {
       "path": "headers/include/Const.h",
-      "size": 15457,
-      "sha256": "1c4efa68f1551ef66c4ed4e052decfc5f40c8c5e430555b6c1f3a90674294f1a"
+      "size": 15582,
+      "sha256": "8aacc0f61bff42808246410b76e4fa4157563010720a0e484f1d243340014993"
     },
     {
       "path": "headers/include/ContralUnit.h",
@@ -1252,8 +1252,8 @@
     },
     {
       "path": "headers/include/LineLaserDenoise.h",
-      "size": 2022,
-      "sha256": "e456faa82a4e3833b6b89730e30fdd49abf35bc4596603f6ee462e382f1f0555"
+      "size": 2434,
+      "sha256": "3e0ced2ab1e53aec9d3bdf1c5679e2c18c156f50ba3a2ee3a6aa200788d5e549"
     },
     {
       "path": "headers/include/LineLaserDenoiseWidgets.h",
@@ -1262,18 +1262,18 @@
     },
     {
       "path": "headers/include/LineLaserParameterDefs.inc",
-      "size": 12831,
-      "sha256": "100dead2ff1d5cfb1c2477c0d0101d2a348ba9ddbb98851d4d494b5112f6beb5"
+      "size": 16955,
+      "sha256": "2d9b1355a809f881ec4eb782e9f4bbd8296040373b9260ebd0c36c795dfe3b48"
     },
     {
       "path": "headers/include/MeasureThenWeldDialog.h",
-      "size": 14335,
-      "sha256": "ce98343335c507896c296332ecce4b0cee3118b8525d9663eb8580c02b6dc35f"
+      "size": 14383,
+      "sha256": "c2762c0eb22a79e969eafe4271c26daefd7327d50f90396f47ba51daab70a6e5"
     },
     {
       "path": "headers/include/MeasureThenWeldService.h",
-      "size": 25158,
-      "sha256": "2a93145075c79fae6c7f5af714632254219d5c65baeccec78d5685c3316e0e13"
+      "size": 25440,
+      "sha256": "e104bf630fdab7096db74ffce5699b7e1f946df61b52b00704b4f3a2f7e15f40"
     },
     {
       "path": "headers/include/ModelAlignmentConfig.h",
@@ -1357,8 +1357,8 @@
     },
     {
       "path": "headers/include/PreciseMeasureEditDialog.h",
-      "size": 6466,
-      "sha256": "a6112ec2423699c032227d4fa8738cfc7486fb8c78c47700568d6ba49bdd0d0f"
+      "size": 6987,
+      "sha256": "7d21061a404961635e012a9853a9329dc5db4ab30af5fc4b4ab5d2d32273ca4a"
     },
     {
       "path": "headers/include/ProcessLoopTestDialog.h",
@@ -1367,8 +1367,8 @@
     },
     {
       "path": "headers/include/QtWidgetsApplication4.h",
-      "size": 16150,
-      "sha256": "6e1f4ae64088f61df6ce6fdb2f2cb49e95699868aede6016c2b4955e72251e62"
+      "size": 16195,
+      "sha256": "b34683686d48ccc4622b8dadd284596f5f92d8d722cb499b39158abef6e7e4c6"
     },
     {
       "path": "headers/include/ReferenceModelLibrary.h",
@@ -1432,8 +1432,8 @@
     },
     {
       "path": "headers/include/RobotDriverAdaptor.h",
-      "size": 30199,
-      "sha256": "8a2a85329c9e8c6d6203201b6744c0d5a9e61f3f5d88fd0d24396f34ae364853"
+      "size": 31926,
+      "sha256": "e5408e0c5c0b78e38ce17ebae3f351cca6f98869f772362dfad26090ab0be81e"
     },
     {
       "path": "headers/include/RobotDriverRegistry.h",
@@ -1442,13 +1442,33 @@
     },
     {
       "path": "headers/include/RobotExternalAxis.h",
-      "size": 12284,
-      "sha256": "4c706dc87568463f1a81db7314295e65d0e8ae58f2bc5bbc3ee967c995f695cf"
+      "size": 15713,
+      "sha256": "29cd54c107205c859eec272a9ada8b9992838d2c858f4729b9b3211e3583f447"
     },
     {
       "path": "headers/include/RobotExternalAxisFlow.h",
-      "size": 5119,
-      "sha256": "ac286ab3d5ffe465aa34048596951282cb2e66434822309f5455996344bbb376"
+      "size": 5194,
+      "sha256": "70a44ca2090567f8b2751778570f79c4eda4af977d0a64a2b132def8eba8fec8"
+    },
+    {
+      "path": "headers/include/RobotExternalAxisProgram.h",
+      "size": 26169,
+      "sha256": "a4b7bd0f64d26a30bb8c57bf2e08b7c9ec5868fe49044b05c936cd7fbdbf401f"
+    },
+    {
+      "path": "headers/include/RobotExternalAxisProgramStore.h",
+      "size": 4276,
+      "sha256": "86e3e35133262031a9657ca831a9e3dfcfa56d7935d6a920f739fa85f6d3ed40"
+    },
+    {
+      "path": "headers/include/RobotExternalAxisStore.h",
+      "size": 13454,
+      "sha256": "952f53140082877a997ff5fbd2dd15236a7ce7d93e99db53bc1f1cb9c9849627"
+    },
+    {
+      "path": "headers/include/RobotExternalAxisWorkflow.h",
+      "size": 6624,
+      "sha256": "b68338f2a819cc846ba8acbf72bae8667f5936947c4b11f1817649f11724770a"
     },
     {
       "path": "headers/include/RobotFtpFileTransfer.h",
@@ -1507,8 +1527,8 @@
     },
     {
       "path": "headers/include/RobotMotionPoint.h",
-      "size": 6802,
-      "sha256": "4650b999721461a7021e2900efad2b719c55d490fb2f302c1a223822de991273"
+      "size": 7809,
+      "sha256": "783bd9efe2b721218c54da6b325bd6879e2fb6d925304043562f825147736b92"
     },
     {
       "path": "headers/include/RobotOperationLease.h",
@@ -1526,14 +1546,19 @@
       "sha256": "fcb7fa4c162a0e901cfa837a94f196bfddcbfc57987b0386066aff77d90f50ab"
     },
     {
+      "path": "headers/include/RobotTeachingPoint.h",
+      "size": 7611,
+      "sha256": "ac11904bb270528d1a9923e46089e76ec08d91afca5bdcd21eb15d7bbe392fd2"
+    },
+    {
       "path": "headers/include/SKJCameraControlClient.h",
       "size": 2593,
       "sha256": "95f3a9e0d68080417647efe15a682502ff2c919333133ff621ea324d2ebf70e6"
     },
     {
       "path": "headers/include/STEPRobotDriver.h",
-      "size": 19153,
-      "sha256": "ddfbe87f1cbeacead95e7e1a418198b4c5102b197ce22f10321f81d0c54da005"
+      "size": 20297,
+      "sha256": "67f5e4e59aa57ff2a835eb9b3cc980b0c39d14867182bf8bf02b7f79a8944024"
     },
     {
       "path": "headers/include/ScanDataUploader.h",
@@ -1579,6 +1604,11 @@
       "path": "headers/include/StepModelImporter.h",
       "size": 1774,
       "sha256": "062ebc64bfcf1e40afc250ba9a5d40656bbce9a2e160a1616ec672025073a095"
+    },
+    {
+      "path": "headers/include/StepServoPower.h",
+      "size": 4816,
+      "sha256": "eda5d7d4266b34f8042e674fcd6a167c9863ffa452bf4dc46667543f65c9a4bb"
     },
     {
       "path": "headers/include/SystemInterlockPolicy.h",
@@ -1693,527 +1723,527 @@
     {
       "path": "lib/HKAppEntry.lib",
       "size": 4546,
-      "sha256": "24b9a8252c1c83e1bca80c512f9eb18aebeeca0a0d9614ed7db7b19b621194dc"
+      "sha256": "b87a685ca056dd2eab626b53429adb77941b25bc6e60ef9e1cb7bc31d2e3de19"
     },
     {
       "path": "lib/HKAppPaths.lib",
       "size": 5916,
-      "sha256": "22b10224944dddd0901ca90e146a23ec82463748f7af804413439460aa4fe44b"
+      "sha256": "6bbb03fa115e92c9c73723101824a689c75c2e00ecb1660e0549f82a5a2acbce"
     },
     {
       "path": "lib/HKApplicationInstanceGuard.lib",
       "size": 5250,
-      "sha256": "5611b27584976172ceb1bc0136b33a9e71f10b25cd5d7b94fb1dc7ceeb349dac"
+      "sha256": "383db04151458c5f01a19c585714fe702b329e0a34fc78aea819ff4c70c98cdc"
     },
     {
       "path": "lib/HKBcpdModelAligner.lib",
       "size": 4046,
-      "sha256": "5bf0850083d50fad8d104a8126f1168e573728f5bc65f5471edbcd6dc431e1a3"
+      "sha256": "1964b1fbdf70e16bf03c695f7242303f372d1055f061117e364df245adc8986a"
     },
     {
       "path": "lib/HKBrandingConfig.lib",
       "size": 6070,
-      "sha256": "e01e653cd1fea1661913939aada9fe355b35b6a7a74a53b5f3eb81c3d5bc4b30"
+      "sha256": "2887e8fe10e2e7b4ad462b9ecafe5938564b20e809aa633bffb66c5c5bfd7f79"
     },
     {
       "path": "lib/HKCadModel3DView.lib",
       "size": 115132,
-      "sha256": "2805c30677cda923d34d2a7146944b2e278b504a3c1d5fb7b661a174a51c81f7"
+      "sha256": "64e39b84ab5352c54b83faaf8ebf5ffab3c4c28e52a8338fa2513088ba81192a"
     },
     {
       "path": "lib/HKCadSeamCandidateExtractor.lib",
       "size": 68112,
-      "sha256": "4e545b8652f42c2971863eb5c8da873cc7dfab99dc242fb0bd9d6f9eeb4135ec"
+      "sha256": "2feec6260e5c93b993ade938bac6f8422ecc74347260ef80f15d08cdc4c0dea3"
     },
     {
       "path": "lib/HKCameraBasicParamDialog.lib",
       "size": 9596,
-      "sha256": "76d7285266d45221b1f627ae9ae552fe48b01092089cc5cd862c4796914ffa9f"
+      "sha256": "3c0ae4ae0cbc62587515854408d1b678be780dd2b3b40f909d394b07d9990c01"
     },
     {
       "path": "lib/HKCameraFrameCache.lib",
       "size": 34238,
-      "sha256": "9e13e1858d1d59a99da2c06b362c87130332844a80fbb50100a07af252cb7cce"
+      "sha256": "ef617d2bfe6d19a6ecd24dad5f839590f5519a1967034c218ce325ec3966dfd2"
     },
     {
       "path": "lib/HKCameraParamDialog.lib",
       "size": 6848,
-      "sha256": "18a4aaba13c2231e61014ef25bea1b06fd3ea821658c2fe4618ca3879e01c050"
+      "sha256": "b668bc2dca5e024c0c59ada624d6f32b5f0d344ea86ddae6a8340d4cdf01b3ab"
     },
     {
       "path": "lib/HKCliHelp.lib",
       "size": 1870,
-      "sha256": "dd0bded5caf0a9e237f94275771998c527e04a0500d46cb9015f02388d6e92d7"
+      "sha256": "982751d8c6b64eaef5a40dbcdfb3e84a64ff92dc4483b3536b05ec3fef59e4f4"
     },
     {
       "path": "lib/HKConfigDatabase.lib",
       "size": 51174,
-      "sha256": "ae9160bf1aa5d5046f72437f0a754b4757a5258900fe0e3a036994cf33b2f791"
+      "sha256": "d432ad3b58d6c416e026382d958d0ce142337fab787fd5543692dffc0c8f5159"
     },
     {
       "path": "lib/HKConfigDatabaseAuthentication.lib",
       "size": 5612,
-      "sha256": "28fd43452e5135d768b652391ea69669959d3687c0931adaa401e70e904041a6"
+      "sha256": "dc90b2f303b8c0bd04b6077f7f68fae2a4c6f091db01ae4df3504c67585c348a"
     },
     {
       "path": "lib/HKConfigSection.lib",
       "size": 28238,
-      "sha256": "10f00bc73bf98505c706a436b496b70f6c1bd7c7f7c7004e5f0a69470751a365"
+      "sha256": "4d832c3b46728d2c53f8008ef6ccfbb0da151207abf31ddec31b119947675193"
     },
     {
       "path": "lib/HKConst.lib",
       "size": 6592,
-      "sha256": "483eb069bd80c708cf17efa3b67c856385fd45e2b6535434c4199f2926a9c1cd"
+      "sha256": "e59e0242f4f78a3034a834eebe34cdd794dc31f85b84f1b0b20c815eb35c9e29"
     },
     {
       "path": "lib/HKContralUnit.lib",
       "size": 5988,
-      "sha256": "ae75cbb2a2044befc76f28e5704248cdc265d41419fbd09cd19cddde1f7d8dc3"
+      "sha256": "d6613a36731edfd893c50ed8ed81d0728a098e1333918869778888f2268c6f10"
     },
     {
       "path": "lib/HKCredentialSecurity.lib",
       "size": 5198,
-      "sha256": "025a730914e18b276b87f9754c85ead846a89836006f5017fb018d9fabe6a068"
+      "sha256": "9054bc3d82db21fa2e6ba2c7939a5656c0e4f4b8d1a4e7b5be3abb21eac5e801"
     },
     {
       "path": "lib/HKFANUCRobotDriver.lib",
-      "size": 124642,
-      "sha256": "172a0411e0e824139478864a95cef132d4ac3842a796a86d9587623156999b1d"
+      "size": 123676,
+      "sha256": "8442b4d65c0e2c998ebf3cb9347003ee60790f37a280d6438468a14f9cd0bbb8"
     },
     {
       "path": "lib/HKFTPClient.lib",
       "size": 14140,
-      "sha256": "c6ab2aa5a99b20cdf7f329b876022b9fbbaecfe528f3b242eee26e831b5b3b27"
+      "sha256": "6b2e99d63c2d82e70be76f0824d00acc546f98a895b2b1ad5b2c0d9aa67f729f"
     },
     {
       "path": "lib/HKFanucTpContentIdentity.lib",
       "size": 3534,
-      "sha256": "d4d58dfdee42e18516748850b964a0e512e07d0cee1c766b50218c58b4db9270"
+      "sha256": "8f30cf91ddebbd87952a2a0765e64ebe232f395d577a6c09421b1d6912fb9481"
     },
     {
       "path": "lib/HKFunctionTestDialog.lib",
       "size": 84212,
-      "sha256": "73019661cb70403c519986a030afcd6b6946ec41b0034ef1e27fca3fe1cc15ab"
+      "sha256": "37b3d8a48c6f0a028dd6d3f2848e23adbfa24765bb978105b7327e91003a1ff5"
     },
     {
       "path": "lib/HKHandEyeCalibrationDialog.lib",
       "size": 39662,
-      "sha256": "6b3f56a0c1c287c4a1412d8e48a933f2f4dae7be9d3e2ce0009e47d9b4438601"
+      "sha256": "76198d1b835b5379fd139ed9bf3f46cba2d7aa73cfdc395b8c4019bc8ff02639"
     },
     {
       "path": "lib/HKHandEyeMatrixConfig.lib",
       "size": 18578,
-      "sha256": "668dbebea709fc8ca3e54ecad998056a1db4b9bd4a699f9b3ba6f0b0a36278a8"
+      "sha256": "8a48625fe72cf205de5084167ac6eb3bab09b3e4bd9b3dfcd4bbbfdc4b7eb7a3"
     },
     {
       "path": "lib/HKHandEyeMatrixDialog.lib",
       "size": 6978,
-      "sha256": "416f4b9bb2a10630325f285fbe1b866af47757d32b2544c73a9ae044eecf9e7b"
+      "sha256": "afe546cc093226ca1e2897fbecfb334e6c1309b283cbc642694aba04821d7798"
     },
     {
       "path": "lib/HKInovanceCalibration.lib",
       "size": 266706,
-      "sha256": "5a2b69a9aac4f9d0cf461cffc79b993c7cece53ae53daa19499ec536d55ed04b"
+      "sha256": "b5784190e08aa6e501482e006810466c3fd7aedd704a7e8e3092903e5b19f9e1"
     },
     {
       "path": "lib/HKInovanceRobotDriver.lib",
-      "size": 569946,
-      "sha256": "a111da1f6ee429f13d60522b2825e921fb4d614927fee75d32d0bedb525f62c0"
+      "size": 567056,
+      "sha256": "80d0f265b0d60ae1c22af81b4a7b78ebd13eeb529f005ea466c77af0315c0e76"
     },
     {
       "path": "lib/HKLaserFramePoint3DFilter.lib",
-      "size": 19914,
-      "sha256": "e528156b187a55c582bdbde94426fbdc603f057c96df9c683dcbdd0c9e350282"
+      "size": 19276,
+      "sha256": "7ccc30d8671709484a1c049fd929222c887c511fa1f9beeac5993c93d8c33904"
     },
     {
       "path": "lib/HKLaserWeldFilterDialog.lib",
       "size": 32100,
-      "sha256": "6b20ca7c1c931b025b7020faa01f9c0b303fac2cb2682c8a4843ae2398706085"
+      "sha256": "e19b4471332dab6280274d5aa7d5c7f3ddf29099a8fa9654de9d56222db2712d"
     },
     {
       "path": "lib/HKLicenseDialog.lib",
       "size": 5036,
-      "sha256": "d652c40c3c013d50bee566169f1c9dc8e4e2ab71679cb80091e54561246654d9"
+      "sha256": "0341832226907336bea936229afd7a9e5ce3053c51aaab0c341f54eaf124ff15"
     },
     {
       "path": "lib/HKLicenseManager.lib",
       "size": 18534,
-      "sha256": "d3a38de1dee615cd0ebc632ba04af236d1fab7648eee2f053845d1dc5f400d2c"
+      "sha256": "abb7aed8062ccf1b8cdce12283c585da75564cf0fe8d8fa9536b1318f03f9b69"
     },
     {
       "path": "lib/HKLineLaserDenoise.lib",
       "size": 11602,
-      "sha256": "4caa7fa1f0ad53a8a2e114e59a9e8bc59686310b4bb4c2160950986d5f6eca1e"
+      "sha256": "37074e5edd2768ca81f971abf4fc822984091fbbe49cad3b801076e379347eb8"
     },
     {
       "path": "lib/HKLineLaserDenoiseWidgets.lib",
       "size": 26098,
-      "sha256": "415942b8cb9b17a3e969ce5724d22d1e1f4e9d2c9fe5535b6b2781cc75a88461"
+      "sha256": "ec61003a490dd12d04ca999d416a810ce0c136327229eeb90c29552c581f2b44"
     },
     {
       "path": "lib/HKMeasureThenWeldDialog.lib",
-      "size": 51698,
-      "sha256": "4fc07ad11a408301b7f8dd59200ee0e83fc27d32a1fcfca0e7f77353e99ec9b8"
+      "size": 53098,
+      "sha256": "7b881f600be33b435d55da7d11a6bf1263f66148c3904e185a61a1f1dc1341a8"
     },
     {
       "path": "lib/HKMeasureThenWeldService.lib",
-      "size": 222588,
-      "sha256": "790f7b14ab90e641a9a1bb23d0009aab85e739b9c821da96fec62550744f083c"
+      "size": 281702,
+      "sha256": "d41e81a0e4e5ff914602b7efeaafbfea88b367a4aa1bc43e1443a474a1af03cd"
     },
     {
       "path": "lib/HKModelAlignmentConfig.lib",
       "size": 5132,
-      "sha256": "1ddbf06f064fe34a373729394e93389510cf990d274b699e3826c5484aeab488"
+      "sha256": "db6302e48416fcbb1038adb350db8558822be977279dbd0d14f37f53979c5dbc"
     },
     {
       "path": "lib/HKModelAlignmentDialog.lib",
       "size": 13290,
-      "sha256": "c32f0ba3ec47236cfbb17a9d510aee5caf5ec4cdf100b4b3ce6c856cfee4ab0e"
+      "sha256": "18662ebfd98f9a64064532cfdcbc8841a8c4e5244444076a731f2e31e55fb744"
     },
     {
       "path": "lib/HKModelWeldingFlowDialog.lib",
       "size": 70898,
-      "sha256": "fded89bcdcde9817db5e224a8b714955d30d05af0d294e10bf7885e7e6e16003"
+      "sha256": "4367e4ff2c2f43c35dd639640fdad3850d0239708bf753c37ad0d04497baaa5f"
     },
     {
       "path": "lib/HKModelWeldingWorkflow.lib",
       "size": 53404,
-      "sha256": "bfc6eb01a0bee023759c88b04febb34553ad59e8a36ac5271e376d728eb43c0c"
+      "sha256": "e990315ad5b4f362aa99292f6d157829fcd7c1f1d7d5781bbf8bd5839274f508"
     },
     {
       "path": "lib/HKOnlineServicesDialog.lib",
       "size": 48736,
-      "sha256": "03810e13170b811195048260d8bdedeb2fd6893ce2cb7ac1893794ea94684aad"
+      "sha256": "d69dc873617debacdc5cae43879ea9a567a59d2340fa8bbd49840fef93de9d1f"
     },
     {
       "path": "lib/HKOnlineServicesLoginDialog.lib",
       "size": 6214,
-      "sha256": "6dcaac9310303a545f3f62b4f75a782867f56b4b900a82fd5f3bfd8cd20dfefe"
+      "sha256": "1f16af4b3615f18e2bec231cbe5a3f297e04cbc843faca2e46e25cd6b5a2d0f7"
     },
     {
       "path": "lib/HKOpenCascadeOperationGuard.lib",
       "size": 2204,
-      "sha256": "8a77f0eab945c04787ac55516b3b744131490774d32af471b18231ae05e04303"
+      "sha256": "59f14ea9461e69016dfb92ffd6eeb51573e2128a5f669874bc37d61405493312"
     },
     {
       "path": "lib/HKPassiveLineScanDialog.lib",
       "size": 8010,
-      "sha256": "331fc0699e637f967cedada997f726e25a89bad9a7785cb86c9060b6cec72531"
+      "sha256": "5d3f80b8b964723b59a9902877974fcc6e6c69515a603ef25e414ea99195bb57"
     },
     {
       "path": "lib/HKPassiveScanControl.lib",
       "size": 12210,
-      "sha256": "b2fb2d25e15c353b5d8304a7192337989ff78097e77b6f2b4b10a2a815f2d6c1"
+      "sha256": "1812612166e36db1856ed0638735af58e49b98e017f7af78a606f5cebdcda0a4"
     },
     {
       "path": "lib/HKPlatformSemanticValidator.lib",
       "size": 11630,
-      "sha256": "17af41874b49eaebb66cd9d379b7445b702e2e20891b8ec3bbc72cd8cb8084f1"
+      "sha256": "95890bdb9b06208266a99f139427da1e78f985357b561220ed79c3a849b571d9"
     },
     {
       "path": "lib/HKPointCloud3DView.lib",
       "size": 10596,
-      "sha256": "6b53426173161fabf87c58e6791e5ed55a6bceb464c2f1c4890bcaf11765dc00"
+      "sha256": "c8cb7d46f3c50dc484adcd55f5e096692517253ef0957be51f4d344a77a665ea"
     },
     {
       "path": "lib/HKPointCloudExtractionProcessor.lib",
       "size": 16828,
-      "sha256": "3b824a3cd8805f976f6d506163c0db823c7bc0f1a31ce9ca3a7e6ef12a507a4b"
+      "sha256": "2e8afd7a1b6006e56f1f9e7284e0362d4b591a89ef55763887a1e43b45cf6f35"
     },
     {
       "path": "lib/HKPointCloudModelDenoiser.lib",
       "size": 16538,
-      "sha256": "30a857804a48fdb893a5c87aa0fcae4bfeeb4f1ee85df8f5cc5f89d41fc10a8f"
+      "sha256": "a4bcea63cdeb322a07dfff53a7ceaa47f9030c8318d9e0029a9e74936d75b9c2"
     },
     {
       "path": "lib/HKPointCloudProcessingConfig.lib",
       "size": 11748,
-      "sha256": "2fda73c9824eef3b19adc1d3c8d86251690983aad18ed072657e93175aa2ab65"
+      "sha256": "cf182346ef471d80596e2b9fb7d3a9c98d80930e15a93a42b5d28500c941caf6"
     },
     {
       "path": "lib/HKPointCloudProofIntegrity.lib",
       "size": 21466,
-      "sha256": "7fb76c73b5b7ff6a2a2e4e4b061311226f0604c803c0349c54d17beea5ae205a"
+      "sha256": "331bd26379c074dd36144b3f083fe1c5e210b449d78fdaecbe9abb75aeedee4d"
     },
     {
       "path": "lib/HKPreciseMeasureEditDialog.lib",
-      "size": 109894,
-      "sha256": "87422cae4119fab2073bc1ccf3fccc30c780c1f738be88bd499c95923b92d6ea"
+      "size": 172780,
+      "sha256": "6d4570a57a29a6b856872351ad3ee5540a8d0785d7ed035e28ec00d6f2b38d4a"
     },
     {
       "path": "lib/HKProcessLoopTestDialog.lib",
       "size": 17920,
-      "sha256": "27c4f79d9b1abf288218b948bbe3a7967c0b40295c438457ae945ac3302e3661"
+      "sha256": "de6122cf0192b4eddfb3033374faf06a4915decdbff754dcfdb176ce55173aa8"
     },
     {
       "path": "lib/HKQtWidgetsApplication4.lib",
-      "size": 295238,
-      "sha256": "f0e8f961ff89e3485d6f7f7abac3fa9ef9d33ec8aab3031e13ae1165c6daec10"
+      "size": 282716,
+      "sha256": "851c102f5705290d4c607eb3956c239c1fe46ceb3294b125214816b1e03f39c2"
     },
     {
       "path": "lib/HKReferenceModelLibrary.lib",
       "size": 11436,
-      "sha256": "a4fc389d1aa21171cfb6d5845a9bb9615d9d0e294c2d069692164ab03e3c345d"
+      "sha256": "d31a00aea5d0b54edcc87647693a794cb2c5a5ffc5e2eece65014de9cd904909"
     },
     {
       "path": "lib/HKRemoteArchiveSecurity.lib",
       "size": 18948,
-      "sha256": "7730f21a8ee999609093f1ed17db1cb9950364f6db7ab428c25606bc214c7738"
+      "sha256": "ed6ec59db7b81cbe9b541d6f3cf72f9ecbe302d66bbea3858f59ccb3db1dc7bb"
     },
     {
       "path": "lib/HKResultArchiveDialog.lib",
       "size": 19988,
-      "sha256": "fb55912b1a2d19dec2466b4645d3ed467794bafb85d6155652b5c35ebaedff80"
+      "sha256": "5c830d9f2ea46483ccb6032a487d6360003cc061cc348304c9bddba13e0f7673"
     },
     {
       "path": "lib/HKReverseMeshSeamProjector.lib",
       "size": 3222,
-      "sha256": "707610fa3ed053796f356441adb295c5917b799a24b265c174f05b6a8e348de0"
+      "sha256": "bb205fb637b6a3f8dfde2e94644fe72099cfc42f7ceda3f27cdf46e2a7234046"
     },
     {
       "path": "lib/HKRobotCadAssemblyLoader.lib",
       "size": 24960,
-      "sha256": "6089a2ea1beb4db4ec8c38aeca78138f73fd0d5f8de3937f0bd7db5d6d70050f"
+      "sha256": "5caf0c3f7e7a78cad33f0c30d470215bf9e7bb5cb7f4c768f1340366f0fd848b"
     },
     {
       "path": "lib/HKRobotCalculation.lib",
-      "size": 57666,
-      "sha256": "da30672c649a35b142db271a01c3aa07d0809c9342010f8013aed3033c66d5d1"
+      "size": 57214,
+      "sha256": "e6657e96d27f789797dd4d3552129b2299b1260c92c44cd9ca070c0f7ffc9d02"
     },
     {
       "path": "lib/HKRobotCalibrationDialog.lib",
       "size": 5758,
-      "sha256": "8572ff05c95b6ed55f99cb9b0ca06de8f2f9a777d37a83f93b8badfdffa7fa1e"
+      "sha256": "f7e3c5cc5a265eb3123f0f1b9c88226f8a3fb0004efae45de5cccdd6af4f829b"
     },
     {
       "path": "lib/HKRobotCalibrationService.lib",
-      "size": 74124,
-      "sha256": "f68cf89d2c9c8ad013c72c9dca532abaa427cea30049c26ae9a6086fc07b7454"
+      "size": 73570,
+      "sha256": "e476c31276b6918a5fbe7d6a1d6d5fd8cf34ce54079700edd2b2950de00cc32a"
     },
     {
       "path": "lib/HKRobotCollisionEnvelopeStore.lib",
       "size": 15858,
-      "sha256": "4f31d50ee80f0ad2416d7692064ad7db6fb31fd299133cfd69ed3d1a941ae909"
+      "sha256": "cd34340c82ea9374dc5847fdf01c70b817e0dc8486de16d53328b418512a0891"
     },
     {
       "path": "lib/HKRobotDataHelper.lib",
       "size": 25460,
-      "sha256": "b230a0eb50cb5cdb0415c223f4f8573d308052ac062e3b7a61d6d835052134da"
+      "sha256": "00c24cbbb24c34ab34f90c1fb436d789817964cd7cae577280e7ef3327954d00"
     },
     {
       "path": "lib/HKRobotDriverAdaptor.lib",
-      "size": 102156,
-      "sha256": "956b970c25665b709153449924a98439bd2f39af04774bd39bbd5a5c1fe218b4"
+      "size": 107706,
+      "sha256": "50b76b08eccd6e8217e609e2b6bc476cced8cd39b1fb308cf867d49a835d61d7"
     },
     {
       "path": "lib/HKRobotDriverRegistry.lib",
       "size": 7102,
-      "sha256": "1d0173648052231f03d2629b84046f9b2749d9c0a5d5af1d6c1e8c22a0bdfc33"
+      "sha256": "6cd64f276fd998a0ff3e22c28acc21e6ab452b9710fb687ae8e5b93342f48876"
     },
     {
       "path": "lib/HKRobotFtpFileTransfer.lib",
       "size": 38062,
-      "sha256": "5f10478bf81a7279c6c31072d5e20ff070e20fabbcb20da90f3e863fa704f073"
+      "sha256": "534672e77271395abf36dd4a18302f0ba6ab9f62e8d57535ebfae486c79e4f9c"
     },
     {
       "path": "lib/HKRobotJogDialog.lib",
       "size": 17068,
-      "sha256": "d6b1e5a181c554392b58edbd0d96df08ccc75c4cc9957cd611cc75413a836a69"
+      "sha256": "ca5cf219a4d02e1776e99e282e682b8c0f5f530c6bcef31bb2c8c72d84122dcc"
     },
     {
       "path": "lib/HKRobotKinematicsModel.lib",
       "size": 502582,
-      "sha256": "8a6f056b2f22464422eb35a56ec46338e5a9ac4a3e1e2b3b38cb429176e6a165"
+      "sha256": "76137cb51267387f40f2d1b6ae1de3944d1b0be15db8a407d2e715e76cbf5888"
     },
     {
       "path": "lib/HKRobotLog.lib",
       "size": 9318,
-      "sha256": "88ad111946a1e61fb0d00d1998dc2e3bf28b803a8123c5c6c1e19258ad8253bf"
+      "sha256": "03d5210a693a558377ef899327294fdfac719e7f916d3b213c602998f3b538de"
     },
     {
       "path": "lib/HKRobotMessage.lib",
       "size": 6790,
-      "sha256": "321e04c4fb7f58ad99511a0ea6977dd1aa8f09229acb89a9c6664c69b3eff6eb"
+      "sha256": "92f2434dd95432781cb5abbea03bc7062aec61db96c426f313cc28e415cb03a7"
     },
     {
       "path": "lib/HKRobotModelCatalogStore.lib",
       "size": 11956,
-      "sha256": "845feda4372b48a3835d1adde427acfc5a6ae41f43debaa5c11a6c2cfa5ac7f5"
+      "sha256": "0d7d6d7abb55206f22d49886f7f0819c164cb1d2d208518010e36387709f1a4a"
     },
     {
       "path": "lib/HKRobotModelManagerDialog.lib",
       "size": 33326,
-      "sha256": "e5a6002d377d0aa64453f7862d4d134b8114dc153bbdd0541e5c8b67013627e1"
+      "sha256": "93f8733839ea6af20ca660ba885a57f517f542b4c5b1c6e38016d3050775a49c"
     },
     {
       "path": "lib/HKRobotModelOriginalPreview.lib",
       "size": 6294,
-      "sha256": "c8516d7b46b99fa514c303d943c73ebd9363a7b03878c68fc86c17fd6b8af2c0"
+      "sha256": "7396583dc16c6b3b21962da99a6cecfdbc9ffda72407c5ee6b12ae97935430b7"
     },
     {
       "path": "lib/HKRobotModelRemoteCatalog.lib",
       "size": 14958,
-      "sha256": "2229f37be7173e65d691bb58e51913bf819e0d416153fa9d626ce3ae5a025cde"
+      "sha256": "fcdcb59465aec5a844014b7503527be9a807260dabe7f8d78b7bbfc89ea402b4"
     },
     {
       "path": "lib/HKRobotOperationLease.lib",
       "size": 30898,
-      "sha256": "dd0a2c4728beb7d01482de6902fb4644ce96fefe9b4f430b27355a48ed94e015"
+      "sha256": "945c26f81024c6ca17d8d5f4c7a7d8cc336971c27e4b4c80ecb38275fc68681b"
     },
     {
       "path": "lib/HKRobotPoseTransform.lib",
       "size": 9248,
-      "sha256": "11c9c136d98594137ee287ee2e254c68000726d6aa980fa77b7aa7515d1e50c3"
+      "sha256": "95f59afec5a86a7d4290e5fc7aaf128d2e8db84dbe948b758944d38e51a41feb"
     },
     {
       "path": "lib/HKSKJCameraControlClient.lib",
       "size": 8206,
-      "sha256": "7a4bec931bfabc89959121ee91f74493cef6dd928e02432e70fa648a61d4351c"
+      "sha256": "90f27b0c337a0627b26ed76fffe0bae3cf1370e8c16eb9c2d32b04b0773a5c81"
     },
     {
       "path": "lib/HKScanDataUploader.lib",
       "size": 51300,
-      "sha256": "03db501f1ac94295f2686f8fd0fd3085c9160db84169e3193ca4ac285c56c45b"
+      "sha256": "7214d1950f31fe54134ed4a477674abfd895218b5a855fd8a69087dc72aa7a05"
     },
     {
       "path": "lib/HKScanPoseVariationTestDialog.lib",
-      "size": 25468,
-      "sha256": "7e158ae02e7b2402e667fe1904abe1a3b2c295d9967f5fed69a18869429ea45d"
+      "size": 21858,
+      "sha256": "047300d85274b6acf3d1f965d350777fc664bb5c59b0b77ea61651e2b33ce6ec"
     },
     {
       "path": "lib/HKScanSafetyGateDialog.lib",
       "size": 9988,
-      "sha256": "c1d220c48774c40eb25a8e66eadf30f11a2bf80b3588eefc44b3df0e04cb1369"
+      "sha256": "f500e504d5c0ae368f0faeebb8fdc2157bd62a3f7f261acd956fb2fd87f7a1f1"
     },
     {
       "path": "lib/HKSentinelLicenseProvider.lib",
       "size": 12790,
-      "sha256": "28c31a9ce8a6174b35b8c1008ed63be2f1b20b5b9850df97d271217d6368570d"
+      "sha256": "a08959d27c87a8e2412330654150a96e95f3974407ddd11f3c926ffdf743373c"
     },
     {
       "path": "lib/HKSkDataClass.lib",
       "size": 58634,
-      "sha256": "a3fc80a509ea84171f7486666434f5c78886d2fe1bbe8bee57c6c9d2067c8993"
+      "sha256": "66b46381362bc90f82c683901629475336ffdcb0416b6cd833f95fc95a3b0abf"
     },
     {
       "path": "lib/HKSkFunction.lib",
-      "size": 83866,
-      "sha256": "5c38cbd380f638d32df8072a89a8a197f52d8a725885e6eb6b9e13a7ea4e6ff2"
+      "size": 82620,
+      "sha256": "9533616789c1528375cbb296556f16dadc32d54b730ba2089672234a921c48f1"
     },
     {
       "path": "lib/HKStepModelImporter.lib",
       "size": 13706,
-      "sha256": "be0aaeeec35dbc9ec52ed8609f41a85111982ff1ec7e759e9a9385e0ca19dfef"
+      "sha256": "0a86641c20545c1649e0f17c6408c970fb89cc7a5eb725bc7fce2d4ee0852b01"
     },
     {
       "path": "lib/HKStepRobotDriver.lib",
-      "size": 95334,
-      "sha256": "94f6117fcdf0010bb852e89ca939c7f38ce0b9aa965d1d84089cb4ba0afc8738"
+      "size": 123246,
+      "sha256": "7c41e56a54cbdd0aa26cc36373b3a1c2e4f835c391e6ae1437e184b8799bc559"
     },
     {
       "path": "lib/HKTheoreticalRobotModelStore.lib",
       "size": 14182,
-      "sha256": "f58023a15f341aee78ba0eb750575949618d5a94924126022cf165624f2be343"
+      "sha256": "a615490d559ead02c9374a3ca71abde058424985e6681adfef927b176d70b74e"
     },
     {
       "path": "lib/HKTouchKeyboardManager.lib",
       "size": 18954,
-      "sha256": "010634d48c479462808f9e2a9a7baf478ac5daf7f57fdd5f6fec129c6e5f8a5d"
+      "sha256": "28a4545d3b1ed15d77ed065c96828ba4ae9d6d284ebe2f8a840b476e490f6ad3"
     },
     {
       "path": "lib/HKVirtualWeldTestDialog.lib",
       "size": 16264,
-      "sha256": "42b0c7f898b3fa715b847388fbba7398a0531563e12585c2427eb87f9638dd8d"
+      "sha256": "9738f7a32aa5a87f3d3e463cd56d8b1755bf32cbd26c06eff5ec89e0089e8bb4"
     },
     {
       "path": "lib/HKWeldPoseAverageUpdater.lib",
       "size": 13696,
-      "sha256": "76767ae2ace5e3289e005ad9594cde180155cf1afe49b71054c2112ff7ad9742"
+      "sha256": "e44926e84e68d72361b655b7e03868e368346962891822e5f71f889da2d6d3b4"
     },
     {
       "path": "lib/HKWeldProcessDialog.lib",
       "size": 33780,
-      "sha256": "0ff15541260d03e16121329d322559228bbfec306c17e3964cbbee3dca73fea0"
+      "sha256": "aa0e828d605085eb27668d6a78a880b6e4b6e5f93f2bc88b93eb6be7ce794304"
     },
     {
       "path": "lib/HKWeldProcessFile.lib",
       "size": 74682,
-      "sha256": "6307e4b8b65bdd2588d37b8c5fa7f7f48d644b9e31b7227d2ac6c5da9d19bfae"
+      "sha256": "630d5e029516b19a7293ebb5dce156bfd34d044075a9eceaab7cc85913cbed0e"
     },
     {
       "path": "lib/HKWeldResumePlanner.lib",
       "size": 14760,
-      "sha256": "92507f76bba30b921c9a670c1731ac2376e970825c3000ee227f3a834eeb59fc"
+      "sha256": "6f50d1faa061f1cf5d56e0f1c89d4b6d300f07679f824b9a8e130cfc94a3884a"
     },
     {
       "path": "lib/HKWeldSafetyRecoveryStore.lib",
       "size": 26706,
-      "sha256": "dd4fe9719d01c10820bb2999ee19f8f5c28db0b77a9cbbf0b757bcba9842d9e9"
+      "sha256": "fa6d01a2fd5bf178eaa3077486882560a6a36183e0bdb86039a27008f0c9ad17"
     },
     {
       "path": "lib/HKWeldSeamCompConfig.lib",
       "size": 5196,
-      "sha256": "daf94202702db0d92033f6a797c9f7a03ff76d322dfafe0280fd08aed17f59f2"
+      "sha256": "419d45562fb2937959d6a84dabb68cdce6bfea33e2ab0a0726774b2db31bec99"
     },
     {
       "path": "lib/HKWeldSeamCompDialog.lib",
-      "size": 75824,
-      "sha256": "9ec3f77d231455a9d7bb45d2f4e1857a79e8e7ba942bd0d26dbe6eae23449f71"
+      "size": 75560,
+      "sha256": "e691c0220f94c3f03946cd44c418f555e5122ac8507c939f664d1f24c37bde1e"
     },
     {
       "path": "lib/HKWindowStyleHelper.lib",
       "size": 7610,
-      "sha256": "b2e99705e725f3310530ea5798514282e4c288ee00e3f80fa8620dd4fbb47b7e"
+      "sha256": "8911987823fa1b26f2ba9f3dbe8f7265976133f9ea424df40d104587fa67d3df"
     },
     {
       "path": "lib/HKWorkpieceMeshBuilder.lib",
       "size": 22618,
-      "sha256": "cc45235a72285fc153fa4f625a6a5aa2c71fb4f7652fd3eed29b55756b430349"
+      "sha256": "2cf0ac54c92a4ac4581df43ab1a49163d85fb9bda75875267e7f826446d2f7d4"
     },
     {
       "path": "lib/HKWorkpieceMeshViewerDialog.lib",
       "size": 112360,
-      "sha256": "711320a0a3ba3ebaf12e722c62e8b2451fc5ed54172bf8371f57a56709f85509"
+      "sha256": "00ae0723afce30b0b486e048b6bebf893a66625e959575e19c7c49ac01a22ff0"
     },
     {
       "path": "lib/HKclientudpformsensorworker.lib",
       "size": 31464,
-      "sha256": "52841def83d0c5149a5c6409b5538d6488ca735dcd18d4a268a8b6565e4804d2"
+      "sha256": "58f2376f4803537d951429a9afd53de25fe993e120f8b95fc963da1530d42718"
     },
     {
       "path": "lib/HKframebuffer.lib",
       "size": 3198,
-      "sha256": "605a02d4e28c45d80574fcafd89d128afb56b1cc55e0ba32be5fda769f7dbe87"
+      "sha256": "318dd0c7f133f5ec7a4e34bda88ddf74f5cf9e36666e6d33c581ddee733e542f"
     },
     {
       "path": "lib/HKpointcloundresultframe.lib",
       "size": 2286,
-      "sha256": "8f746547661007b056d5af83def7b60aeae726d6cc1f4ce77cb7a785764381f3"
+      "sha256": "745ed49dbdb368f04b6feae7c7ec82db4e7bf379583329db5be56dab07c15a5a"
     },
     {
       "path": "lib/HKscancameraskjworker.lib",
       "size": 31404,
-      "sha256": "a02113bc621aa185c87d9181bf49c40e317a42803a3355e04dd9f75019815f33"
+      "sha256": "9d89ff3e1d9c57ed3cb9e749aead25b802e0065cc817a4db640b09ff4d23c5be"
     },
     {
       "path": "lib/HKscancameratcpclientworker.lib",
       "size": 27274,
-      "sha256": "e58fdaead749f5fab775cf0f2d2ed7b300a41bbae81b152ca7a115f1bc57b8bf"
+      "sha256": "6c0daeb5742369d7033502e94cec9577328be0e7129bd998d338cd50c72806de"
     },
     {
       "path": "module-index.csv",
-      "size": 28594,
-      "sha256": "5deefeca04746ff7b99ccb0d0a9d5f8fe8eab10afd888b3ea6e9e51877870791"
+      "size": 28612,
+      "sha256": "d5e653d47a1151760ea5b9d85f30d8078d7e79b80c20765ee9ecc4d6c588aca9"
     },
     {
       "path": "module-index.json",
-      "size": 282658,
-      "sha256": "205fc093ba490e18b3c40a9227c2fbe13c167d4c19ef8cfc5f38f62d1945b36c"
+      "size": 285423,
+      "sha256": "71d9f9844a85448a0fe8040ce9c1f543961e55cd9ae69c26c4d7e0a93ba7cefc"
     },
     {
       "path": "protection-summary.json",
       "size": 3266,
-      "sha256": "786c954a56022852591464e21cd3120150207ca3f1845ead9a54be92a8ac586f"
+      "sha256": "e52fb0255538e38461107ff769ff47eb672c8c922c99ad876ad9d72b73410b79"
     },
     {
       "path": "runtime/hasp_rt.exe",

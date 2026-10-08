@@ -1,6 +1,6 @@
 # brand-standalone DLL 分发仓库
 
-通道：brand-standalone；版本：2026.09.20.2035；业务 DLL：102。授权：Sentinel HL 密码狗，永久单机授权。
+通道：brand-standalone；版本：2026.10.08.1745；业务 DLL：102。授权：Sentinel HL 密码狗，永久单机授权。
 
 本次提供同通道完整安装包用于客户安装。 FullDllRuntime ZIP 提供运行依赖；FullDllSDK ZIP 提供 DLL、配套 LIB 和必要接口头文件，仍为开发接口候选。Git 拉取和 GitHub 自动生成的 Source code ZIP 只包含说明及清单，不能直接运行程序。
 
